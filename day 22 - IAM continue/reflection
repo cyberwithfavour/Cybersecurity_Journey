@@ -1,0 +1,7 @@
+# Day 22 Reflection
+
+Today I learned that authentication is much more than passwords.
+
+The biggest lesson was understanding the five authentication factors and why Multi-Factor Authentication is one of the strongest defenses against account compromise.
+
+I also learned why authenticator apps and hardware security keys provide stronger protection than relying only on SMS verification.
