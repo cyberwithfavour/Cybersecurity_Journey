@@ -1,0 +1,25 @@
+# Day 18 – Common Network Attacks
+
+## Objective
+
+Understand the most common network attacks, how they work, their impact on organizations, and the security controls used to prevent them.
+
+---
+
+# What is a Network Attack?
+
+A network attack is any attempt to gain unauthorized access to a network, steal information, disrupt services, or compromise systems.
+
+Attackers may target:
+- Computers
+- Servers
+- Routers
+- Switches
+- Wireless networks
+- Web applications
+
+---
+
+# Denial-of-Service (DoS) Attack
+
+A DoS attack attempts
