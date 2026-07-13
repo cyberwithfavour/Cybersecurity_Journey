@@ -1,0 +1,6 @@
+Reflection
+
+Today I learned how Linux controls file access through permissions and ownership.
+I now understand how cybersecurity professionals prevent unauthorized 
+access using the principle of least privilege. 
+This is critical in protecting sensitive data and systems.
