@@ -1,0 +1,21 @@
+Day 7 Reflection
+
+Day 7 served as my first major milestone in my cybersecurity journey.
+
+Scoring 95/100 on a 100-question ISC2 CC-style assessment showed that the concepts
+covered during the first week have been well understood and retained.
+
+The Linux Security & System Investigation project helped transform theoretical
+knowledge into practical experience. I gained confidence working with Linux commands, 
+file permissions, processes, and system logs.
+
+Key lessons learned:
+
+* Security is built on strong fundamentals.
+* Linux skills are essential for cybersecurity professionals.
+* Logs provide critical visibility into system activity.
+* Proper permissions reduce security risks.
+* Continuous practice is necessary for certification success.
+
+Next week I will begin Networking Fundamentals, covering TCP/IP, OSI Model, Ports, Protocols,
+and Network Security.
