@@ -1,6 +1,7 @@
 # Day 30 Reflection
 
-Today I learned that cybersecurity is not only about preventing attacks but also preparing for failures and disasters.
+Today I learned that cybersecurity is not only about preventing attacks but also preparing for 
+failures and disasters.
 
 The biggest lesson was understanding the difference between Business Continuity and Disaster Recovery. I also learned how redundancy, backups, failover, and High Availability help organizations remain resilient.
 
