@@ -1,7 +1,0 @@
-# Day 12 Reflection
-
-Today I learned about the OSI Model and how data travels through seven different layers before reaching another device.
-
-The biggest lesson for me was understanding that every layer has its own responsibility. I also learned which devices operate at different layers and when TCP is preferred over UDP.
-
-The mnemonic "All People Seem To Need Data Processing" will help me remember the seven layers during exams.
