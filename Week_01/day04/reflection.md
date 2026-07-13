@@ -1,0 +1,5 @@
+Reflection
+
+Today I learned how to manage files in Linux using command line tools. 
+These commands are very important in cybersecurity because analysts use them to examine logs,
+move evidence, and search for suspicious activity.
