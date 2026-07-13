@@ -1,7 +1,0 @@
-# Day 29 Reflection
-
-Today I learned that modern cybersecurity no longer assumes users inside a network are trustworthy.
-
-The biggest lesson was understanding Zero Trust and its principle of "Never Trust, Always Verify." I also learned how microsegmentation, continuous monitoring, and conditional access work together to reduce security risks.
-
-Zero Trust shows that security is an ongoing process rather than a one-time check.
