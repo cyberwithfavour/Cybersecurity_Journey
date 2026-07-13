@@ -1,5 +1,0 @@
-# Day 16 Reflection
-
-Today I learned that networking is more than just connecting devices—it also involves services that make communication efficient and secure.
-
-I now understand how DNS, DHCP, NAT, VPNs, and digital certificates work together to support modern networks. One key takeaway is that HTTPS relies on TLS and digital certificates to provide secure communication.
