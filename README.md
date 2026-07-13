@@ -1,147 +1,126 @@
-# 🛡️ 90-Day Cybersecurity Journey
+# 🛡️ Cybersecurity Journey – Okanu Favour
 
-Welcome to my 90-Day Cybersecurity Journey!
+> **From Beginner to SOC Analyst | 90-Day Cybersecurity Journey**
 
-I'm documenting my transition into cybersecurity by studying every day, building practical skills, and sharing my progress publicly. My goal is to become a Security Operations Center (SOC) Analyst with a strong foundation in cybersecurity.
+Welcome to my cybersecurity portfolio!
 
----
+I'm **Okanu Favour**, an aspiring **SOC (Security Operations Center) Analyst** documenting my journey as I build practical cybersecurity skills, prepare for industry certifications, and develop hands-on projects.
 
-## 🎯 Goals
-
-- Build a strong cybersecurity foundation
-- Prepare for the CompTIA Security+ (SY0-701) certification
-- Develop hands-on cybersecurity skills
-- Build a public portfolio on GitHub
-- Share my learning journey consistently
+This repository serves as my learning journal, where I document my daily progress, practical exercises, reflections, and weekly milestones.
 
 ---
 
-## 📅 Progress
+# 🎯 My Goals
 
-- ✅ Day 1 – Day 39: Daily learning
-- ✅ Day 40 – Day 45: Comprehensive revision
-- ⏳ Current Progress: **45 / 90 Days (50% Complete)**
+- Earn CompTIA Security+ (SY0-701)
+- Build a strong cybersecurity portfolio
+- Develop practical SOC Analyst skills
+- Gain hands-on experience with security tools
+- Prepare for a Master's degree in Cybersecurity in the UK
+- Secure an entry-level SOC Analyst role
 
 ---
 
-## 📚 Topics Covered
+# 📚 Current Learning Roadmap
 
-### Cybersecurity Fundamentals
-- Introduction to Cybersecurity
-- CIA Triad
-- Threats, Vulnerabilities & Risk
-- Risk Management
+## Certifications
 
-### Identity & Access Management
-- Authentication
-- Authorization
-- Accounting (AAA)
-- Multi-Factor Authentication (MFA)
-- Access Control Models
-- Principle of Least Privilege
+- ✅ ISC2 Certified in Cybersecurity 
+- 🔄 CompTIA Security+ (SY0-701)
+- 📅 Microsoft SC-900 (Planned)
 
-### Networking Fundamentals
-- OSI Model
-- TCP/IP Model
-- Network Devices
-- IP Addressing
-- DNS
-- DHCP
-- Common Ports & Protocols
+---
 
-### Linux Fundamentals
-- Linux Commands
-- File System
-- File Permissions
-- User Management
+# 🧠 Skills I'm Developing
 
-### Virtualization & Cloud Computing
-- Virtual Machines
-- Hypervisors
-- Cloud Computing
-- IaaS
-- PaaS
-- SaaS
-- Shared Responsibility Model
-
-### Cryptography
-- Encryption
-- Decryption
-- Symmetric Encryption
-- Asymmetric Encryption
-- Hashing
-- Digital Signatures
-- Digital Certificates
-
-### Network Security
-- Firewalls
-- IDS
-- IPS
-- VPN
-- Network Segmentation
-- Secure Protocols
-
-### Security Operations
-- Malware
-- Social Engineering
-- Vulnerability Management
-- CVE & CVSS
+- Networking Fundamentals
+- Linux Administration
+- Windows Security
+- Identity & Access Management (IAM)
+- Cryptography
+- Malware Analysis
+- Security Operations (SOC)
 - Incident Response
-- Digital Forensics
-- Chain of Custody
-
-### Revision Completed
-- Revision of Days 1–18 completed (Days 40–45)
-
----
-
-## 🛠️ Tools Used
-
-- Ubuntu Linux
-- VirtualBox
-- Git & GitHub
-- Wireshark
-- VS Code
+- Log Analysis
+- Microsoft Sentinel
+- Threat Hunting
+- Cloud Security
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
-```
-day01/
-day02/
-...
-day45/
-
-README.md
+```text
+Cybersecurity_Journey
+│
+├── Week_01
+├── Week_02
+├── Week_03
+├── Week_04
+├── Week_05
+├── Week_06
+├── Week_07
+└── ...
 ```
 
----
+Each week contains:
 
-## 🚀 What's Next?
-
-- Continue the remaining 45 days of the journey
-- Weekly hands-on cybersecurity projects
-- Weekly Security+ practice exams
-- More practical labs and real-world scenarios
-
----
-
-## 💡 Why I'm Doing This
-
-I'm challenging myself to show up every day, stay consistent, and build the knowledge and skills needed for a career in cybersecurity.
-
-This repository is more than a collection of notes—it's proof of discipline, growth, and continuous learning.
+- Daily study notes
+- Practical tasks
+- Reflections
+- Resources
+- Weekly assessments
 
 ---
 
-## 📈 Current Milestone
+# 🛠️ Related Repositories
 
-🎉 **45 Days Completed**
-- 50% of the journey complete
-- Strong cybersecurity foundation built
-- Ready for the second half of the journey
+### 🛡️ SOC-Labs
+Hands-on SOC investigations, alert analysis, incident reports, and log analysis.
+
+### 🎯 Threat-Hunting
+Threat hunting investigations using MITRE ATT&CK, IOC analysis, and detection techniques.
+
+### ☁️ Cloud-Security-Labs
+Azure security, Microsoft Sentinel, Microsoft Defender, and cloud monitoring exercises.
 
 ---
 
-*"Consistency compounds. Every day of learning is one step closer to becoming the cybersecurity professional I aspire to be."*
+# 📈 Progress Tracker
+
+| Milestone | Status |
+|-----------|--------|
+| Start of Journey | ✅ |
+| Week 1 | ✅ |
+| Week 2 | ✅ |
+| Week 3 | ✅ |
+| Week 4 | ✅ |
+| Week 5 | ✅ |
+| Week 6 | ✅ |
+| Week 7 | 🔄 In Progress |
+| CompTIA Security+ | 🎯 In Progress |
+| 90-Day Challenge | 🚀 Ongoing |
+
+---
+
+# 💡 Why This Repository?
+
+This repository is more than study notes.
+
+It documents my growth as I develop practical cybersecurity skills through continuous learning, hands-on exercises, and real-world security investigations.
+
+My aim is to demonstrate consistency, technical ability, and a genuine passion for cybersecurity.
+
+---
+
+# 🤝 Connect With Me
+
+**GitHub:** https://github.com/cyberwithfavour
+
+**LinkedIn:** *(Add your LinkedIn profile URL)*
+
+**X (Twitter):** *(Add your X profile URL)*
+
+---
+
+> *"Success in cybersecurity isn't built in one day—it's built one lesson, one lab, and one investigation at a time."*
